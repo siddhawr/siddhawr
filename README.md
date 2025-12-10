@@ -1,5 +1,40 @@
 # 💫 About Me:
-Hi, I'm Kunal—Engineer, Researcher, and Autonomy Builder 🧠🤖<br>I specialize in giving machines the ability to understand their surroundings and make intelligent decisions. From multi-sensor robotic platforms to future-aware self-driving architectures, I enjoy designing systems where robotics, AI, and real-time computation all collide. Always learning, always building.<br><br>🔭 I’m currently working on<br>Building multi-sensor perception and prediction pipelines for autonomous robots — from quadruped platforms to future-aware driving systems.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source robotics tools, SLAM/VO frameworks, and ML-driven perception systems that push autonomy forward.<br><br>🤝 I’m looking for help with<br>Exploring large-scale agentic systems, improving visual odometry robustness, and deploying real-time models on edge hardware (Jetson, ROS2).<br><br>🌱 I’m currently learning<br>Advanced trajectory optimization, factor graph methods (GTSAM), and multi-modal sensor fusion for safety-critical autonomy.<br><br>💬 Ask me about<br>ROS2, Jetson deployment, SLAM, calibration pipelines, visual odometry, perception stack design, or building ML systems from scratch.<br><br>⚡ Fun fact<br>I once calibrated a camera setup for 12 hours straight just to track cookie-sized robots — and it worked beautifully.
+## Hi, I'm Kunal — Engineer, Researcher, and Autonomy Builder 🧠🤖
+
+I specialize in giving machines the ability to understand their surroundings and make intelligent decisions. From multi-sensor robotic platforms to future-aware self-driving architectures, I love building systems where robotics, AI, and real-time computation collide — always learning, always building.
+
+As a sensors-focused researcher, I also explore sensing **beyond cameras and LiDAR**. My goal is to expand robotic perception using unconventional modalities such as vibration, gas, and other physical interactions that unlock capabilities traditional pipelines often miss.
+
+### 📄 Recent Publications
+
+#### **ViscuSense – Vibration Sensing for Liquid Mixture Characterization**  
+A novel sensing framework that uses vibration signatures to characterize liquid mixtures, pushing the boundaries of non-visual perception.  
+🔗 **Paper:** https://doi.org/10.13140/RG.2.2.28709.15842
+
+#### **Resonant and Stochastic Vibration in Neurorehabilitation**  
+A survey exploring how vibrotactile stimulation can drive motor recovery and enhance sensorimotor plasticity.  
+🔗 **Survey:** https://doi.org/10.48550/arXiv.2512.08009
+
+---
+
+### 🔭 I’m currently working on
+Building multi-sensor perception and prediction pipelines for autonomous robots — from quadrupeds to future-aware driving systems.
+
+### 🧑‍🤝‍🧑 I’m looking to collaborate on
+Open-source robotics tools, SLAM/VO frameworks, and ML-driven perception systems that push autonomy forward.
+
+### 🤝 I’m looking for help with
+Exploring large-scale agentic systems, improving visual odometry robustness, and deploying real-time models on edge hardware (Jetson, ROS2).
+
+### 🌱 I’m currently learning
+Advanced trajectory optimization, factor-graph methods (GTSAM), and multi-modal sensor fusion for safety-critical autonomy.
+
+### 💬 Ask me about
+ROS2, Jetson deployment, SLAM, calibration pipelines, visual odometry, perception stack design, or building ML systems from scratch.
+
+### ⚡ Fun fact
+I once calibrated a camera setup for 12 hours straight just to track cookie-sized robots — and it worked beautifully.
+
 
 
 ## 🌐 Socials:
